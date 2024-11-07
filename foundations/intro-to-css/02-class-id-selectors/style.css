@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(255, 116, 116);
+    font-family: fantasy
+}
+.size{
+    font-size: 24px;
+}
+#NB2{
+    color: blue;
+    font-size: 36px;
+}
+#NB4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
